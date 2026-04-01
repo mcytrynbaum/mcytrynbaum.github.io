@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm \"/Users/maxcytrynbaum/Library/CloudStorage/Dropbox/research/logistics/website/site/minimal/files/rerand_slides.pdf\")",
+      "Bash(rm \"/Users/maxcytrynbaum/Library/CloudStorage/Dropbox/research/logistics/website/site/minimal/files/local_slides.pdf\")",
+      "Bash(mv \"/Users/maxcytrynbaum/Library/CloudStorage/Dropbox/research/logistics/website/site/minimal/files/slides - wisconsin.pdf\" \"/Users/maxcytrynbaum/Library/CloudStorage/Dropbox/research/logistics/website/site/minimal/files/rerand_slides.pdf\")",
+      "Bash(mv \"/Users/maxcytrynbaum/Library/CloudStorage/Dropbox/research/logistics/website/site/minimal/files/slides_2023.pdf\" \"/Users/maxcytrynbaum/Library/CloudStorage/Dropbox/research/logistics/website/site/minimal/files/local_slides.pdf\")"
+    ]
+  }
+}
